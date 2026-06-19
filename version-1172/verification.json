@@ -1,0 +1,13 @@
+{
+  "movie_records_parsed": 2000,
+  "detail_pages_generated": 2000,
+  "category_pages_generated": 10,
+  "movies_in_categories": 2000,
+  "ranking_items": 2000,
+  "video_urls_extracted_from_original_js": 150,
+  "top_level_covers_1_to_150_exist": true,
+  "baidu_script_pages_expected": 2014,
+  "baidu_script_pages_found": 2014,
+  "logo": "国产电视剧视频免费在线观看",
+  "html_files_total": 2014
+}
